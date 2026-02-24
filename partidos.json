@@ -1,34 +1,5 @@
 [
   {
-    "nombre": "UEFA Champions League: Atl. Madrid Vs Club Brugge KV",
-    "hora": "11:45",
-    "liga": "soccer",
-    "logo": "logos/soccer.png",
-    "fecha": "2026-02-24",
-    "embeds": [
-      {
-        "nombre": "VER STREAM",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://atletifan.com/fans/?id=1"
-      },
-      {
-        "nombre": "EVENTOS",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://streams.center/embed/ch3.php"
-      },
-      {
-        "nombre": "M. Liga de Campeones (ES)",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=29"
-      },
-      {
-        "nombre": "NL ESPN 1",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://areagame.net/home/blog1/"
-      },
-      {
-        "nombre": "ESPN1",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F87"
-      }
-    ]
-  },
-  {
     "nombre": "Saudi Pro League: Al Hazem Vs Al Ittihad",
     "hora": "13:00",
     "liga": "soccer",
@@ -211,12 +182,12 @@
     "fecha": "2026-02-24",
     "embeds": [
       {
-        "nombre": "canal+ sport",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F13"
+        "nombre": "VER STREAM",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://atletifan.com/fans/?id=2"
       },
       {
-        "nombre": "EXTRA SPORT8",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F162"
+        "nombre": "EVENTOS",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://streams.center/embed/ch2.php"
       },
       {
         "nombre": "UK EPL 3PM",
@@ -256,12 +227,12 @@
     "fecha": "2026-02-24",
     "embeds": [
       {
-        "nombre": "canal+ foot",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F12"
+        "nombre": "VER STREAM",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://atletifan.com/fans/?id=3"
       },
       {
-        "nombre": "EXTRA SPORT9",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F163"
+        "nombre": "EVENTOS",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://streams.center/embed/ch1.php"
       },
       {
         "nombre": "UK TNT SPORT",
@@ -301,12 +272,12 @@
     "fecha": "2026-02-24",
     "embeds": [
       {
-        "nombre": "canal+ sport360",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F14"
+        "nombre": "VER STREAM",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://atletifan.com/fans/?id=4"
       },
       {
-        "nombre": "EXTRA SPORT11",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F165"
+        "nombre": "EVENTOS",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://streams.center/embed/ch4.php"
       },
       {
         "nombre": "UK EPL 3PM",
