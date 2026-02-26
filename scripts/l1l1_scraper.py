@@ -2,6 +2,7 @@ import requests
 import json
 from bs4 import BeautifulSoup
 from datetime import datetime, timedelta
+from zoneinfo import ZoneInfo
 
 PLAYER_PREFIX = "https://5bcda32c.player-dwk.pages.dev/?get="
 
@@ -15,7 +16,7 @@ HEADERS = {
     "Connection": "keep-alive"
 }
 
-UTC_OFFSET_MEXICO = -6  # ajusta si estás en horario verano
+MEXICO_TZ = ZoneInfo("America/Mexico_City")
 
 
 def fetch():
@@ -95,7 +96,7 @@ def parse(html):
         from datetime import datetime, timedelta, timezone
 
         dt_utc = datetime.fromtimestamp(timestamp, timezone.utc)
-        dt_mex = dt_utc + timedelta(hours=UTC_OFFSET_MEXICO)
+        dt_mex = dt_utc.astimezone(MEXICO_TZ)
 
         liga_detectada, logo = detect_liga(liga_texto)
 
@@ -131,7 +132,7 @@ def parse(html):
                 "fecha": dt_mex.strftime("%Y-%m-%d"),
                 "embeds": embeds
             })
-
+    eventos.sort(key=lambda x: (x["fecha"], x["hora"]))
     return eventos
 
 
@@ -142,10 +143,32 @@ def save(eventos):
     print(f"✅ {len(eventos)} eventos guardados en {OUTPUT_FILE}")
 
 
+from datetime import datetime, timedelta
+
 def main():
-    html = fetch()
-    eventos = parse(html)
-    save(eventos)
+    hoy = datetime.now().strftime("%Y-%m-%d")
+    manana = (datetime.now() + timedelta(days=1)).strftime("%Y-%m-%d")
+
+    urls = [
+        f"https://l1l1.link/?date={hoy}&sport=&q=&chid=&sort=time_asc",
+        f"https://l1l1.link/?date={manana}&sport=&q=&chid=&sort=time_asc"
+    ]
+
+    todos_eventos = []
+
+    for url in urls:
+        print(f"📡 Descargando {url}")
+        r = requests.get(url, headers=HEADERS, timeout=40)
+        r.raise_for_status()
+        html = r.text
+
+        eventos = parse(html)
+        todos_eventos.extend(eventos)
+
+    # Ordenar por fecha y hora
+    todos_eventos.sort(key=lambda x: (x["fecha"], x["hora"]))
+
+    save(todos_eventos)
 
 
 if __name__ == "__main__":
