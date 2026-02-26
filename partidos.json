@@ -2,8 +2,8 @@
   {
     "nombre": "EuroLeague: Dubai Vs Lyon-Villeurbanne",
     "hora": "11:00",
-    "liga": "soccer",
-    "logo": "logos/soccer.png",
+    "liga": "nba",
+    "logo": "logos/nba.png",
     "fecha": "2026-02-26",
     "embeds": [
       {
@@ -262,8 +262,8 @@
   {
     "nombre": "EuroLeague: Monaco Vs Maccabi Tel Aviv",
     "hora": "12:30",
-    "liga": "soccer",
-    "logo": "logos/soccer.png",
+    "liga": "nba",
+    "logo": "logos/nba.png",
     "fecha": "2026-02-26",
     "embeds": [
       {
@@ -313,8 +313,8 @@
   {
     "nombre": "EuroLeague: Hapoel Tel Vs Aviv Vs Olimpia Milano",
     "hora": "13:05",
-    "liga": "soccer",
-    "logo": "logos/soccer.png",
+    "liga": "nba",
+    "logo": "logos/nba.png",
     "fecha": "2026-02-26",
     "embeds": [
       {
@@ -330,8 +330,8 @@
   {
     "nombre": "EuroLeague: Baskonia Vs Valencia",
     "hora": "13:30",
-    "liga": "soccer",
-    "logo": "logos/soccer.png",
+    "liga": "nba",
+    "logo": "logos/nba.png",
     "fecha": "2026-02-26",
     "embeds": [
       {
@@ -347,8 +347,8 @@
   {
     "nombre": "EuroLeague: Panathinaikos Vs Paris",
     "hora": "13:45",
-    "liga": "soccer",
-    "logo": "logos/soccer.png",
+    "liga": "nba",
+    "logo": "logos/nba.png",
     "fecha": "2026-02-26",
     "embeds": [
       {
@@ -364,8 +364,8 @@
   {
     "nombre": "EuroLeague: Real Madrid Vs Bayern",
     "hora": "13:45",
-    "liga": "soccer",
-    "logo": "logos/soccer.png",
+    "liga": "nba",
+    "logo": "logos/nba.png",
     "fecha": "2026-02-26",
     "embeds": [
       {
