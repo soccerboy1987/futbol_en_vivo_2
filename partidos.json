@@ -1,31 +1,5 @@
 [
   {
-    "nombre": "NBA: Phoenix Suns Vs Los Angeles Lakers",
-    "hora": "20:00",
-    "liga": "nba",
-    "logo": "logos/nba.png",
-    "fecha": "2026-02-26",
-    "embeds": [
-      {
-        "nombre": "EXTRA SPORT23",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F177"
-      }
-    ]
-  },
-  {
-    "nombre": "NBA: Utah Jazz Vs New Orleans Pelicans",
-    "hora": "20:00",
-    "liga": "nba",
-    "logo": "logos/nba.png",
-    "fecha": "2026-02-26",
-    "embeds": [
-      {
-        "nombre": "EXTRA SPORT24",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F178"
-      }
-    ]
-  },
-  {
     "nombre": "NHL: Colorado Avalanche Vs Minnesota Wild",
     "hora": "20:00",
     "liga": "nhl",
