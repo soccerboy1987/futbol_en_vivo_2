@@ -465,12 +465,16 @@
     "fecha": "2026-02-28",
     "embeds": [
       {
-        "nombre": "beIN 2",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F2"
+        "nombre": "VER STREAM",
+        "url": "https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/espn-deportes/mono.m3u8"
+      },
+      {
+        "nombre": "EVENTOS",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://streams.center/embed/ch6.php"
       },
       {
         "nombre": "ES m.laliga",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F49"
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://5bcda32c.player-dwk.pages.dev/?get=https://viewembed.ru/channel/ESPNDeportes%5BUSA%5D"
       },
       {
         "nombre": "ESPN Deportes",
@@ -481,8 +485,8 @@
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F94"
       },
       {
-        "nombre": "DE dazn 2",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F124"
+        "nombre": "bet11476286",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://5bcda32c.player-dwk.pages.dev/?get=https://viewembed.ru/channel/bet11476286"
       }
     ]
   },
