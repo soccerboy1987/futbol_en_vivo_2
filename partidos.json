@@ -187,7 +187,7 @@
     ]
   },
   {
-    "nombre": "Liga Betplay Dimayor: Once Caldas Vs Chico",
+    "nombre": "Liga Betplay Dimayor: Once Caldas Vs Boyaca Chico",
     "hora": "19:30",
     "liga": "soccer",
     "logo": "logos/liga_colombia.png",
@@ -238,6 +238,10 @@
       {
         "nombre": "TNT Sports 2 (GB)",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=2"
+      },
+      {
+        "nombre": "TNT Sports 2 (GB) opc2",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://www2.sprtsonline.click/channels/hd/hd2.php"
       }
     ]
   },
@@ -272,6 +276,14 @@
       {
         "nombre": "ES DAZN F1",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F60"
+      },
+      {
+        "nombre": "TNT Sports 2 (GB) opc2",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://www2.sprtsonline.click/channels/hd/hd2.php"
+      },
+      {
+        "nombre": "SPORTV4",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://viewembed.ru/channel/SportTV4%5BPortugal%5D"
       }
     ]
   },
@@ -364,7 +376,7 @@
     ]
   },
   {
-    "nombre": "MotoGP: Grand Prix de Thaïlande Essais libres 2 des Moto GP Vs (CH14fr)",
+    "nombre": "MotoGP: Grand Prix de Thaïlande Essais libres 2 des Moto GP",
     "hora": "21:10",
     "liga": "soccer",
     "logo": "logos/motogp.png",
@@ -377,7 +389,7 @@
     ]
   },
   {
-    "nombre": "MotoGP: Grand Prix de Thaïlande\tWarm Up des Moto GP Vs (CH14fr)",
+    "nombre": "MotoGP: Grand Prix de Thaïlande\tWarm Up des Moto GP",
     "hora": "21:35",
     "liga": "soccer",
     "logo": "logos/motogp.png",
@@ -390,7 +402,7 @@
     ]
   },
   {
-    "nombre": "MotoGP: Grand Prix de Thaïlande Essais qualificatifs 1 et 2 des Moto GP Vs (CH14fr)",
+    "nombre": "MotoGP: Grand Prix de Thaïlande Essais qualificatifs 1 et 2 des Moto GP",
     "hora": "21:50",
     "liga": "soccer",
     "logo": "logos/motogp.png",
@@ -403,7 +415,7 @@
     ]
   },
   {
-    "nombre": "Moto3: Grand Prix de Thaïlande\tLa course des Moto 3 Vs (CH14fr)",
+    "nombre": "Moto3: Grand Prix de Thaïlande\tLa course des Moto 3",
     "hora": "23:00",
     "liga": "soccer",
     "logo": "logos/motogp.png",
@@ -416,7 +428,7 @@
     ]
   },
   {
-    "nombre": "MotoGP: Grand Prix de Thaïlande Essais qualificatifs 1 et 2 des Moto 3 Vs (CH14fr)",
+    "nombre": "MotoGP: Grand Prix de Thaïlande Essais qualificatifs 1 et 2 des Moto 3",
     "hora": "23:45",
     "liga": "soccer",
     "logo": "logos/motogp.png",
