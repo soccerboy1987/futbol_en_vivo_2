@@ -366,7 +366,7 @@
   {
     "nombre": "MotoGP: Grand Prix de Thaïlande Essais libres 2 des Moto GP Vs (CH14fr)",
     "hora": "21:10",
-    "liga": "motogp",
+    "liga": "soccer",
     "logo": "logos/motogp.png",
     "fecha": "2026-02-27",
     "embeds": [
@@ -379,7 +379,7 @@
   {
     "nombre": "MotoGP: Grand Prix de Thaïlande\tWarm Up des Moto GP Vs (CH14fr)",
     "hora": "21:35",
-    "liga": "motogp",
+    "liga": "soccer",
     "logo": "logos/motogp.png",
     "fecha": "2026-02-27",
     "embeds": [
@@ -392,7 +392,7 @@
   {
     "nombre": "MotoGP: Grand Prix de Thaïlande Essais qualificatifs 1 et 2 des Moto GP Vs (CH14fr)",
     "hora": "21:50",
-    "liga": "motogp",
+    "liga": "soccer",
     "logo": "logos/motogp.png",
     "fecha": "2026-02-27",
     "embeds": [
@@ -405,7 +405,7 @@
   {
     "nombre": "Moto3: Grand Prix de Thaïlande\tLa course des Moto 3 Vs (CH14fr)",
     "hora": "23:00",
-    "liga": "motogp",
+    "liga": "soccer",
     "logo": "logos/motogp.png",
     "fecha": "2026-02-27",
     "embeds": [
@@ -418,7 +418,7 @@
   {
     "nombre": "MotoGP: Grand Prix de Thaïlande Essais qualificatifs 1 et 2 des Moto 3 Vs (CH14fr)",
     "hora": "23:45",
-    "liga": "motogp",
+    "liga": "soccer",
     "logo": "logos/motogp.png",
     "fecha": "2026-02-27",
     "embeds": [
