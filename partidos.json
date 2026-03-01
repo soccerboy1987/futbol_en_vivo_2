@@ -8,7 +8,7 @@
     "embeds": [
       {
         "nombre": "NL ESPN 1",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F141"
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://viewembed.ru/channel/ESPN1%5BNetherlands%5D"
       },
       {
         "nombre": "ESPN3",
@@ -17,10 +17,6 @@
       {
         "nombre": "ESPN2MX",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F98"
-      },
-      {
-        "nombre": "DE Sportdigital Fussball",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F125"
       }
     ]
   },
@@ -32,33 +28,22 @@
     "fecha": "2026-03-01",
     "embeds": [
       {
-        "nombre": "C+Live 15",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F45"
+        "nombre": "ESPN1",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://viewembed.ru/channel/ESPN%5BArgentina%5D"
       },
       {
-        "nombre": "IT DAZN",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F137"
+        "nombre": "SPORTTV",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=hhttps://viewembed.ru/channel/SportTV2%5BPortugal%5D"
       },
       {
-        "nombre": "PT SPORT 2",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F145"
-      },
-      {
-        "nombre": "GR SPORT 1",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F148"
-      },
-      {
-        "nombre": "DE dazn 1",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F123"
+        "nombre": "EVENTOS",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://streams.center/embed/ch9.php"
       },
       {
         "nombre": "FOX Deportes",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F70"
       },
-      {
-        "nombre": "ESPN1",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F87"
-      },
+      
       {
         "nombre": "ESPN1MX",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F97"
@@ -73,8 +58,8 @@
     "fecha": "2026-03-01",
     "embeds": [
       {
-        "nombre": "UK SKY MAIN",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F127"
+        "nombre": "SportTV6",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://viewembed.ru/channel/SportTV6%5BPortugal%5D"
       },
       {
         "nombre": "UK SKY FOOT",
@@ -83,87 +68,6 @@
       {
         "nombre": "UK SPFL",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F135"
-      },
-      {
-        "nombre": "UK SPFL",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F136"
-      },
-      {
-        "nombre": "GR SPORT 2",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F149"
-      }
-    ]
-  },
-  {
-    "nombre": "Bundesliga 2: bundesliga 2 konferenz Vs ",
-    "hora": "06:30",
-    "liga": "soccer",
-    "logo": "logos/liga_bundesliga.png",
-    "fecha": "2026-03-01",
-    "embeds": [
-      {
-        "nombre": "DE bundliga1",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F111"
-      }
-    ]
-  },
-  {
-    "nombre": "Bundesliga 2: Braunschweig Vs Preussen Munster",
-    "hora": "06:30",
-    "liga": "soccer",
-    "logo": "logos/liga_bundesliga.png",
-    "fecha": "2026-03-01",
-    "embeds": [
-      {
-        "nombre": "DE bundliga2",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F112"
-      }
-    ]
-  },
-  {
-    "nombre": "Bundesliga 2: Hertha Berlin Vs Nurnberg",
-    "hora": "06:30",
-    "liga": "soccer",
-    "logo": "logos/liga_bundesliga.png",
-    "fecha": "2026-03-01",
-    "embeds": [
-      {
-        "nombre": "beIN max 4",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F4"
-      },
-      {
-        "nombre": "DE bundliga3",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F113"
-      },
-      {
-        "nombre": "FOXsport1 arg",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F78"
-      }
-    ]
-  },
-  {
-    "nombre": "Bundesliga 2: Magdeburg Vs Karlsruher SC",
-    "hora": "06:30",
-    "liga": "soccer",
-    "logo": "logos/liga_bundesliga.png",
-    "fecha": "2026-03-01",
-    "embeds": [
-      {
-        "nombre": "DE bundliga4",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F114"
-      }
-    ]
-  },
-  {
-    "nombre": "Pro League: Genk Vs Gent",
-    "hora": "06:30",
-    "liga": "soccer",
-    "logo": "logos/soccer.png",
-    "fecha": "2026-03-01",
-    "embeds": [
-      {
-        "nombre": "BE channel1",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F153"
       }
     ]
   },
@@ -188,28 +92,24 @@
     "fecha": "2026-03-01",
     "embeds": [
       {
-        "nombre": "beIN 2",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F2"
+        "nombre": "VER STREAM",
+        "url": "https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/espn-deportes/mono.m3u8"
       },
       {
-        "nombre": "ES m.laliga",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F49"
-      },
-      {
-        "nombre": "DE dazn 2",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F124"
+        "nombre": "EVENTOS",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://streams.center/embed/ch6.php"
       },
       {
         "nombre": "ESPN Deportes",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F71"
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://viewembed.ru/channel/ESPNDeportes%5BUSA%5D"
       },
       {
         "nombre": "ESPN2",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F88"
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://viewembed.ru/channel/ESPN2%5BArgentina%5D"
       },
       {
         "nombre": "CANAL5",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F107"
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fembed.saohgdasregions.fun%2Fembed2%2Fcanal5.html"
       }
     ]
   },
@@ -223,6 +123,10 @@
       {
         "nombre": "beIN max 5",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F5"
+      },
+      {
+        "nombre": "bet11476282",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://viewembed.ru/channel/bet11476282"
       },
       {
         "nombre": "ES LALIGA HYPERMOTION",
@@ -265,7 +169,7 @@
     "embeds": [
       {
         "nombre": "NL ESPN 1",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F141"
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://viewembed.ru/channel/ESPN1%5BNetherlands%5D"
       },
       {
         "nombre": "ESPN2MX",
@@ -298,8 +202,8 @@
     "fecha": "2026-03-01",
     "embeds": [
       {
-        "nombre": "LIGUE 1 FR",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F20"
+        "nombre": "EVENTOS",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://streams.center/embed/ch7.php"
       },
       {
         "nombre": "beIN En español",
@@ -319,8 +223,8 @@
     "fecha": "2026-03-01",
     "embeds": [
       {
-        "nombre": "canal+ sport",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F13"
+        "nombre": "EVENTOS",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://streams.center/embed/ch3.php"
       },
       {
         "nombre": "UK EPL 3PM",
@@ -340,8 +244,8 @@
     "fecha": "2026-03-01",
     "embeds": [
       {
-        "nombre": "canal+ sport360",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F14"
+        "nombre": "EVENTOS",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://streams.center/embed/ch2.php"
       },
       {
         "nombre": "UK EPL 3PM",
@@ -361,20 +265,12 @@
     "fecha": "2026-03-01",
     "embeds": [
       {
-        "nombre": "canal+ foot",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F12"
-      },
-      {
-        "nombre": "UK SKY MAIN",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F127"
+        "nombre": "EVENTOS",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://streams.center/embed/ch1.php"
       },
       {
         "nombre": "ES DAZN 1",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F56"
-      },
-      {
-        "nombre": "IT SKYCALCIO",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F138"
       },
       {
         "nombre": "Telemundo",
@@ -383,10 +279,6 @@
       {
         "nombre": "ESPN1",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F87"
-      },
-      {
-        "nombre": "DE skyde PL",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F120"
       }
     ]
   },
@@ -398,8 +290,8 @@
     "fecha": "2026-03-01",
     "embeds": [
       {
-        "nombre": "IT DAZN",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F137"
+        "nombre": "EVENTOS",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://streams.center/embed/ch9.php"
       },
       {
         "nombre": "PT SPORT 2",
@@ -474,15 +366,19 @@
     "fecha": "2026-03-01",
     "embeds": [
       {
-        "nombre": "beIN 2",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F2"
+        "nombre": "VER STREAM",
+        "url": "https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/espn-deportes/mono.m3u8"
       },
       {
-        "nombre": "ES m.laliga",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F49"
+        "nombre": "EVENTOS",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://streams.center/embed/ch6.php"
       },
       {
         "nombre": "ESPN Deportes",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://viewembed.ru/channel/ESPNDeportes%5BUSA%5D"
+      },
+      {
+        "nombre": "ESPN Deportes OPC2",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F71"
       },
       {
@@ -501,6 +397,10 @@
       {
         "nombre": "ES LALIGA HYPERMOTION",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F53"
+      },
+      {
+        "nombre": "bet11476282",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://viewembed.ru/channel/bet11476282"
       }
     ]
   },
@@ -514,6 +414,10 @@
       {
         "nombre": "ES LALIGA HYPERMOTION2",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F54"
+      },
+      {
+        "nombre": "bet11476282",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://viewembed.ru/channel/bet11476282"
       }
     ]
   },
@@ -585,8 +489,8 @@
     "fecha": "2026-03-01",
     "embeds": [
       {
-        "nombre": "LIGUE 1 FR",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F21"
+        "nombre": "EVENTOS",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://streams.center/embed/ch7.php"
       },
       {
         "nombre": "beIN En español",
@@ -604,6 +508,10 @@
       {
         "nombre": "LIGUE 1 FR",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F22"
+      },
+      {
+        "nombre": "LIGUE 1 FR",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://streams.center/embed/ch5.php"
       }
     ]
   },
@@ -617,6 +525,10 @@
       {
         "nombre": "rmc sport2",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F18"
+      },
+      {
+        "nombre": "EVENTOS",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://streams.center/embed/ch4.php"
       }
     ]
   },
@@ -775,12 +687,16 @@
     "fecha": "2026-03-01",
     "embeds": [
       {
-        "nombre": "beIN 2",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F2"
+        "nombre": "VER STREAM",
+        "url": "https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/espn-deportes/mono.m3u8"
       },
       {
-        "nombre": "ES DAZN liga",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F51"
+        "nombre": "EVENTOS",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://streams.center/embed/ch6.php"
+      },
+      {
+        "nombre": "ESPN Deportes",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://viewembed.ru/channel/ESPNDeportes%5BUSA%5D"
       },
       {
         "nombre": "ESPN Deportes",
@@ -802,6 +718,10 @@
       {
         "nombre": "ES LALIGA HYPERMOTION",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F53"
+      },
+      {
+        "nombre": "bet11476282",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://viewembed.ru/channel/bet11476282"
       }
     ]
   },
@@ -1083,6 +1003,10 @@
       {
         "nombre": "ES LALIGA HYPERMOTION",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F53"
+      },
+      {
+        "nombre": "bet11476282",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://viewembed.ru/channel/bet11476282"
       }
     ]
   },
