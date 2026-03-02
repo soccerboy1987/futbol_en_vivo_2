@@ -1,18 +1,5 @@
 [
   {
-    "nombre": "MLS: Orlando City Vs Inter Miami",
-    "hora": "18:00",
-    "liga": "soccer",
-    "logo": "logos/liga_mls.png",
-    "fecha": "2026-03-01",
-    "embeds": [
-      {
-        "nombre": "EXTRA SPORT8",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F162"
-      }
-    ]
-  },
-  {
     "nombre": "Torneo LPF: Defensa y Justicia Vs Lanus",
     "hora": "18:30",
     "liga": "soccer",
