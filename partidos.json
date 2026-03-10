@@ -11,10 +11,6 @@
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F75"
       },
       {
-        "nombre": "TNT sport arg OPC2",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://viewembed.ru/channel/TNTSports%5BArgentina%5D"
-      },
-      {
         "nombre": "TNT Sports Argentina (ES)",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=26"
       }
@@ -30,10 +26,6 @@
       {
         "nombre": "ESPN Premium",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F76"
-      },
-      {
-        "nombre": "ESPN AR",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://viewembed.ru/channel/ESPN%5BArgentina%5D"
       },
       {
         "nombre": "ESPN Premium Argentina (ES)",
@@ -71,11 +63,11 @@
       },
       {
         "nombre": "TUDN (ES)",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://viewembed.ru/channel/TUDN%5BMexico%5D"
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=30"
       },
       {
-        "nombre": "TUDN (ES)",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=30"
+        "nombre": "TUDN",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://tvtvhd.com/vivo/canal.php?stream=tudn"
       }
     ]
   },
@@ -259,8 +251,8 @@
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F81"
       },
       {
-        "nombre": "EVENTOS",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://viewembed.ru/channel/bet12200089"
+        "nombre": "WINsport+ opc2",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://tvtvhd.com/canales.php?stream=winsportsplus"
       },
       {
         "nombre": "Win Sports (CO)",
@@ -466,8 +458,8 @@
     "fecha": "2026-03-10",
     "embeds": [
       {
-        "nombre": "ESPN1",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F87"
+        "nombre": "ESPN",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://tvtvhd.com/canales.php?stream=espn"
       },
       {
         "nombre": "ESPN3MX",
@@ -476,10 +468,6 @@
       {
         "nombre": "beIN SPORTS en Espanol (ES)",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=40"
-      },
-      {
-        "nombre": "beIN SPORTS us",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://viewembed.ru/channel/beINSPORTSUSA%5BUSA%5D"
       }
     ]
   },
@@ -505,7 +493,7 @@
     ]
   },
   {
-    "nombre": "Serie A Bresil: Mirassol Vs Santos",
+    "nombre": "Serie A Brasil: Mirassol Vs Santos",
     "hora": "18:30",
     "liga": "soccer",
     "logo": "logos/liga_italia.png",
@@ -516,8 +504,8 @@
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F55"
       },
       {
-        "nombre": "canal11",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://viewembed.ru/channel/Canal11%5BPortugal%5D"
+        "nombre": "PREMIERE1",
+        "url": "https://tvtvhd.com/canales.php?stream=premiere1"
       },
       {
         "nombre": "Vamos (ES)",
@@ -538,11 +526,15 @@
       },
       {
         "nombre": "TUDN",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://viewembed.ru/channel/TUDN%5BMexico%5D"
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://tvtvhd.com/vivo/canal.php?stream=tudn"
       },
       {
         "nombre": "TUDN (ES)",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=30"
+      },
+      {
+        "nombre": "DISNEY",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://tvtvhd.com/canales.php?stream=disney9"
       }
     ]
   },
@@ -619,6 +611,10 @@
       {
         "nombre": "EXTRA SPORT4",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F158"
+      },
+      {
+        "nombre": "UNIVERSO",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://tvtvhd.com/canales.php?stream=universo"
       }
     ]
   },
@@ -634,8 +630,8 @@
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F81"
       },
       {
-        "nombre": "EVENTOS",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://viewembed.ru/channel/bet12210908"
+        "nombre": "win sports opc2",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://tvtvhd.com/canales.php?stream=winsportsplus"
       },
       {
         "nombre": "Win Sports (CO)",
@@ -760,12 +756,12 @@
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F68"
       },
       {
-        "nombre": "TUDN",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://viewembed.ru/channel/TUDN%5BMexico%5D"
-      },
-      {
         "nombre": "TUDN (ES)",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=30"
+      },
+      {
+        "nombre": "DISNEY",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://tvtvhd.com/canales.php?stream=disney11"
       }
     ]
   },
