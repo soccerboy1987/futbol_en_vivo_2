@@ -9,6 +9,10 @@
       {
         "nombre": "TNT sport arg",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F75"
+      },
+      {
+        "nombre": "TNT Sports Argentina (ES)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=26"
       }
     ]
   },
@@ -22,6 +26,10 @@
       {
         "nombre": "ESPN Premium",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F76"
+      },
+      {
+        "nombre": "ESPN Premium Argentina (ES)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=27"
       }
     ]
   },
@@ -37,8 +45,8 @@
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F88"
       },
       {
-        "nombre": "beIN En español",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F69"
+        "nombre": "beIN SPORTS en Espanol (ES)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=40"
       },
       {
         "nombre": "FOXsport1 arg",
@@ -64,6 +72,23 @@
       {
         "nombre": "ESPN Premium",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F76"
+      },
+      {
+        "nombre": "ESPN Premium Argentina (ES)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=27"
+      }
+    ]
+  },
+  {
+    "nombre": "World Baseball Classic · Italy vs Diablos Rojos del Mexico",
+    "hora": "17:00",
+    "liga": "soccer",
+    "logo": "logos/baseball.png",
+    "fecha": "2026-03-11",
+    "embeds": [
+      {
+        "nombre": "Sportsnet+ (CA)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=31"
       }
     ]
   },
@@ -79,8 +104,8 @@
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F55"
       },
       {
-        "nombre": "EXTRA SPORT7",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F161"
+        "nombre": "TUDN (ES)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=30"
       },
       {
         "nombre": "TUDN USA",
@@ -96,8 +121,8 @@
     "fecha": "2026-03-11",
     "embeds": [
       {
-        "nombre": "beIN 1",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F1"
+        "nombre": "ESPN (US)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=1"
       },
       {
         "nombre": "EXTRA SPORT26",
@@ -113,8 +138,8 @@
     "fecha": "2026-03-11",
     "embeds": [
       {
-        "nombre": "beIN max 7",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F7"
+        "nombre": "RDS (CA)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=7"
       },
       {
         "nombre": "EXTRA SPORT27",
@@ -129,6 +154,10 @@
     "logo": "logos/nhl.png",
     "fecha": "2026-03-11",
     "embeds": [
+      {
+        "nombre": "TNT (US)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=8"
+      },
       {
         "nombre": "EXTRA SPORT28",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F182"
@@ -145,6 +174,27 @@
       {
         "nombre": "EXTRA SPORT30",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F183"
+      },
+      {
+        "nombre": "Sportsnet One (CA)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=2"
+      }
+    ]
+  },
+  {
+    "nombre": "World Baseball Classic · Dominican Republic vs Venezuela",
+    "hora": "18:00",
+    "liga": "soccer",
+    "logo": "logos/baseball.png",
+    "fecha": "2026-03-11",
+    "embeds": [
+      {
+        "nombre": "FOX Sports 1 (US)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=81"
+      },
+      {
+        "nombre": "FOX Deportes (ES)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=87"
       }
     ]
   },
@@ -160,8 +210,8 @@
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F87"
       },
       {
-        "nombre": "beIN En español",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F69"
+        "nombre": "beIN SPORTS en Espanol (ES)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=40"
       },
       {
         "nombre": "FOXsport1 arg",
@@ -179,6 +229,10 @@
       {
         "nombre": "Liga1MAX",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F84"
+      },
+      {
+        "nombre": "Canal 11 (PT)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=21"
       }
     ]
   },
@@ -205,6 +259,10 @@
       {
         "nombre": "EXTRA SPORT31",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F184"
+      },
+      {
+        "nombre": "NBA League Pass (US)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=3"
       }
     ]
   },
@@ -218,6 +276,10 @@
       {
         "nombre": "ESPN Premium",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F76"
+      },
+      {
+        "nombre": "ESPN Premium Argentina (ES)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=27"
       }
     ]
   },
@@ -231,6 +293,10 @@
       {
         "nombre": "TNT sport arg",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F75"
+      },
+      {
+        "nombre": "TNT Sports Argentina (ES)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=26"
       }
     ]
   },
@@ -241,6 +307,10 @@
     "logo": "logos/liga_concachampions.png",
     "fecha": "2026-03-11",
     "embeds": [
+      {
+        "nombre": "TUDN (ES)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=30"
+      },
       {
         "nombre": "TUDN USA",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F68"
@@ -255,8 +325,8 @@
     "fecha": "2026-03-11",
     "embeds": [
       {
-        "nombre": "beIN 1",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F1"
+        "nombre": "ESPN (US)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=1"
       },
       {
         "nombre": "EXTRA SPORT32",
@@ -272,6 +342,10 @@
     "fecha": "2026-03-11",
     "embeds": [
       {
+        "nombre": "NBA League Pass (US)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=5"
+      },
+      {
         "nombre": "EXTRA SPORT33",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F186"
       }
@@ -285,6 +359,10 @@
     "fecha": "2026-03-11",
     "embeds": [
       {
+        "nombre": "NBA League Pass (US)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=6"
+      },
+      {
         "nombre": "EXTRA SPORT34",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F187"
       }
@@ -297,6 +375,10 @@
     "logo": "logos/liga_concachampions.png",
     "fecha": "2026-03-11",
     "embeds": [
+      {
+        "nombre": "TUDN (ES)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=30"
+      },
       {
         "nombre": "TUDN USA",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F68"
