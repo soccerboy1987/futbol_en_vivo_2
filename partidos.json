@@ -121,6 +121,14 @@
     "fecha": "2026-03-11",
     "embeds": [
       {
+        "nombre": "EVENTOS",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://streams.center/embed/ch65.php"
+      },
+      {
+        "nombre": "VER STREAM",
+        "url": "https://hls.thewhites.site/hls/788614e5-277c-44f3-b924-4f0834c987a0/index.m3u8"
+      },
+      {
         "nombre": "ESPN (US)",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=1"
       },
@@ -171,6 +179,10 @@
     "logo": "logos/nba.png",
     "fecha": "2026-03-11",
     "embeds": [
+      {
+        "nombre": "EVENTOS",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://streams.center/embed/ch66.php"
+      },
       {
         "nombre": "EXTRA SPORT30",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F183"
@@ -257,6 +269,10 @@
     "fecha": "2026-03-11",
     "embeds": [
       {
+        "nombre": "EVENTOS",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://streams.center/embed/ch67.php"
+      },
+      {
         "nombre": "EXTRA SPORT31",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F184"
       },
@@ -325,6 +341,10 @@
     "fecha": "2026-03-11",
     "embeds": [
       {
+        "nombre": "EVENTOS",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://streams.center/embed/ch68.php"
+      },
+      {
         "nombre": "ESPN (US)",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=1"
       },
@@ -342,6 +362,10 @@
     "fecha": "2026-03-11",
     "embeds": [
       {
+        "nombre": "EVENTOS",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://streams.center/embed/ch69.php"
+      },
+      {
         "nombre": "NBA League Pass (US)",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=5"
       },
@@ -358,6 +382,10 @@
     "logo": "logos/nba.png",
     "fecha": "2026-03-11",
     "embeds": [
+      {
+        "nombre": "EVENTOS",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://streams.center/embed/ch70.php"
+      },
       {
         "nombre": "NBA League Pass (US)",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=6"
