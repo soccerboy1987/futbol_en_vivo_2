@@ -198,10 +198,10 @@
     ]
   },
   {
-    "nombre": "Serie A Bresil: Corinthians Vs Coritiba",
+    "nombre": "Serie A Brasil: Corinthians Vs Coritiba",
     "hora": "18:30",
     "liga": "soccer",
-    "logo": "logos/liga_italia.png",
+    "logo": "logos/liga_brasil.png",
     "fecha": "2026-03-11",
     "embeds": [
       {
