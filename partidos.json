@@ -55,11 +55,11 @@
     ]
   },
   {
-    "nombre": "World Baseball Classic · Puerto Rico vs Italy",
-    "hora": "13:00",
+    "nombre": "World Baseball Classic · South Korea vs Dominican Republic",
+    "hora": "16:30",
     "liga": "soccer",
     "logo": "logos/baseball.png",
-    "fecha": "2026-03-14",
+    "fecha": "2026-03-13",
     "embeds": [
       {
         "nombre": "FOX Sports 1 (US)",
