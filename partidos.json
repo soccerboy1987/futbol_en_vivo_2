@@ -241,7 +241,7 @@
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F81"
       },
       {
-        "nombre": "WINsport+",
+        "nombre": "WINsport+ opc2",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://tvtvhd.com/tv/canal.php?stream=even5"
       }
     ]
@@ -256,6 +256,10 @@
       {
         "nombre": "TNTCHILE Premium",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F83"
+      },
+      {
+        "nombre": "TNTCHILE Premium",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://tvtvhd.com/canales.php?stream=tntsportschile"
       }
     ]
   },
@@ -333,6 +337,10 @@
       {
         "nombre": "EXTRA SPORT40",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F193"
+      },
+      {
+        "nombre": "EVENTOS",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://streams.center/embed/ch59.php"
       }
     ]
   },
@@ -348,8 +356,8 @@
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F55"
       },
       {
-        "nombre": "DE Sportdigital Fussball",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F125"
+        "nombre": "AMAZON PRIME",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://tvtvhd.com/canales.php?stream=amazon_prime1"
       },
       {
         "nombre": "PT SPORT 3",
@@ -367,6 +375,10 @@
       {
         "nombre": "Zapping sports",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F86"
+      },
+      {
+        "nombre": "ECDF",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://tvtvhd.com/canales.php?stream=ecdf_ligapro"
       }
     ]
   },
@@ -380,6 +392,10 @@
       {
         "nombre": "EXTRA SPORT41",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F194"
+      },
+      {
+        "nombre": "EVENTOS",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://streams.center/embed/ch69.php"
       }
     ]
   },
@@ -393,6 +409,10 @@
       {
         "nombre": "EXTRA SPORT42",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F195"
+      },
+      {
+        "nombre": "EVENTOS",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://streams.center/embed/ch60.php"
       }
     ]
   },
@@ -406,6 +426,10 @@
       {
         "nombre": "TNT sport arg",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F75"
+      },
+      {
+        "nombre": "TNT sport arg",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://tvtvhd.com/canales.php?stream=tntsports"
       }
     ]
   },
@@ -456,8 +480,8 @@
     "fecha": "2026-03-14",
     "embeds": [
       {
-        "nombre": "beIN 1",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F1"
+        "nombre": "EVENTOS",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://streams.center/embed/ch70.php"
       },
       {
         "nombre": "EXTRA SPORT3",
@@ -505,6 +529,10 @@
       {
         "nombre": "EXTRA SPORT4",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F158"
+      },
+      {
+        "nombre": "VER STREAM",
+        "url": "https://aegis-akamai.tubi.video/821a4f4e-60b5-4085-b936-75d623337879/playlist.m3u8"
       }
     ]
   },
@@ -521,11 +549,16 @@
       },
       {
         "nombre": "TUDNMX",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F106"
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://tvtvhd.com/canales.php?stream=tudn"
       },
       {
-        "nombre": "CANAL5",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F107"
+        "nombre": "UNIVISION",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://tvtvhd.com/canales.php?stream=univision"
+      }
+      ,
+      {
+        "nombre": "CANAL 5",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fembed.saohgdasregions.fun%2Fembed2%2Fcanal5.html"
       }
     ]
   },
@@ -539,6 +572,10 @@
       {
         "nombre": "EXTRA SPORT44",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F197"
+      },
+      {
+        "nombre": "EVENTOS",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://streams.center/embed/ch61.php"
       }
     ]
   },
@@ -604,6 +641,10 @@
       {
         "nombre": "EXTRA SPORT45",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F198"
+      },
+      {
+        "nombre": "EVENTOS",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://streams.center/embed/ch62.php"
       }
     ]
   },
@@ -617,6 +658,10 @@
       {
         "nombre": "EXTRA SPORT46",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F199"
+      },
+      {
+        "nombre": "EVENTOS",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://streams.center/embed/ch63.php"
       }
     ]
   },
@@ -643,6 +688,10 @@
       {
         "nombre": "EXTRA SPORT47",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F200"
+      },
+      {
+        "nombre": "EVENTOS",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://streams.center/embed/ch71.php"
       }
     ]
   },
