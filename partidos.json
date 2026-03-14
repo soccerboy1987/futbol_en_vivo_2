@@ -1,43 +1,4 @@
-[
-  {
-    "nombre": "formula 1: GP de Chine La course Sprint Vs (CH13fr)",
-    "hora": "20:50",
-    "liga": "soccer",
-    "logo": "logos/soccer.png",
-    "fecha": "2026-03-13",
-    "embeds": [
-      {
-        "nombre": "ES DAZN F1",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F60"
-      },
-      {
-        "nombre": "FOXsport1 arg",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F78"
-      }
-    ]
-  },
-  {
-    "nombre": "Liga Mx: Juarez Vs Monterrey",
-    "hora": "21:00",
-    "liga": "soccer",
-    "logo": "logos/liga_mx.png",
-    "fecha": "2026-03-13",
-    "embeds": [
-      {
-        "nombre": "FOX Deportes",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F70"
-      },
-      {
-        "nombre": "NBC UNIVERSO",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F72"
-      },
-      {
-        "nombre": "Azteca 7",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F108"
-      }
-    ]
-  },
-    [
+  [
   {
     "nombre": "formula 1: GP de Chine Essais qualificatifs Vs (CH13fr)",
     "hora": "00:40",
@@ -1863,5 +1824,4 @@
       }
     ]
   }
- ]
 ]
