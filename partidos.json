@@ -253,6 +253,10 @@
       {
         "nombre": "NL ESPN 2",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F142"
+      },
+      {
+        "nombre": "NL ESPN 2 opc2",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://tvtvhd.com/canales.php?stream=espn2_nl"
       }
     ]
   },
@@ -266,6 +270,10 @@
       {
         "nombre": "Liga1MAX",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F84"
+      },
+      {
+        "nombre": "Liga1MAX opc2",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://tvtvhd.com/vivo/canal.php?stream=liga1max"
       }
     ]
   },
@@ -309,6 +317,10 @@
       {
         "nombre": "beIN En español",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F69"
+      },
+      {
+        "nombre": "BEIN SPORTS ESPAÑOL",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F155"
       }
     ]
   },
@@ -326,6 +338,10 @@
       {
         "nombre": "LIGUE 1 FR",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F22"
+      },
+      {
+        "nombre": "DISNEY",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://tvtvhd.com/canales.php?stream=disney1"
       }
     ]
   },
@@ -341,12 +357,12 @@
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F8"
       },
       {
-        "nombre": "DE dazn 2",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F124"
+        "nombre": "DAZN2 (DE)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=18"
       },
       {
-        "nombre": "DE bundliga6",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F116"
+        "nombre": "DISNEY +",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://tvtvhd.com/canales.php?stream=disney3"
       }
     ]
   },
@@ -362,20 +378,16 @@
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://streams.center/embed/ch3.php"
       },
       {
-        "nombre": "canal+ foot",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F12"
+        "nombre": "ESPN AR",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://tvtvhd.com/vivo/canal.php?stream=espn"
       },
       {
-        "nombre": "UK SKY MAIN",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F127"
+        "nombre": "ESPN",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://tvtvhd.com/canales.php?stream=espn"
       },
       {
-        "nombre": "DE skyde PL",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F120"
-      },
-      {
-        "nombre": "ES DAZN 1",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F56"
+        "nombre": "DAZN1 (ES)",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://l1l1.link/ch?id=30"
       },
       {
         "nombre": "ESPN1",
