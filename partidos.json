@@ -71,20 +71,12 @@
     "fecha": "2026-03-16",
     "embeds": [
       {
-        "nombre": "IT DAZN",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F137"
-      },
-      {
-        "nombre": "DE dazn 2",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F124"
+        "nombre": "EVENTOS",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://streams.center/embed/ch9.php"
       },
       {
         "nombre": "PT SPORT 2",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F145"
-      },
-      {
-        "nombre": "GR SPORT 2",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F149"
       },
       {
         "nombre": "FOX Deportes",
@@ -121,8 +113,12 @@
     "fecha": "2026-03-16",
     "embeds": [
       {
-        "nombre": "beIN max 4",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F4"
+        "nombre": "EVENTOS",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://streams.center/embed/ch6.php"
+      },
+      {
+        "nombre": "VER STREAM",
+        "url": "https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/espn-deportes/mono.m3u8"
       },
       {
         "nombre": "ES m.laliga",
@@ -135,10 +131,6 @@
       {
         "nombre": "ESPN3",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F89"
-      },
-      {
-        "nombre": "DE dazn 1",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F123"
       }
     ]
   },
@@ -163,8 +155,8 @@
     "fecha": "2026-03-16",
     "embeds": [
       {
-        "nombre": "canal+ foot",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F12"
+        "nombre": "EVENTOS",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://streams.center/embed/ch1.php"
       },
       {
         "nombre": "UK SKY MAIN",
