@@ -1,170 +1,109 @@
 [
   {
-    "nombre": "Torneo LPF: Aldosivi - Huracan",
-    "hora": "12:30",
-    "liga": "soccer",
-    "logo": "logos/liga_argentina.png",
-    "fecha": "2026-03-16",
-    "embeds": [
-      {
-        "nombre": "ESPN Premium",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F76"
-      }
-    ]
-  },
-  {
-    "nombre": "Torneo LPF: Barracas Central - Atl. Tucuman",
-    "hora": "12:30",
-    "liga": "soccer",
-    "logo": "logos/liga_argentina.png",
-    "fecha": "2026-03-16",
-    "embeds": [
-      {
-        "nombre": "TNT sport arg",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F75"
-      }
-    ]
-  },
-  {
-    "nombre": "Laliga 2: Albacete - Las Palmas",
-    "hora": "13:30",
-    "liga": "soccer",
-    "logo": "logos/liga_española.png",
-    "fecha": "2026-03-16",
-    "embeds": [
-      {
-        "nombre": "ES LALIGA HYPERMOTION",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F53"
-      }
-    ]
-  },
-  {
-    "nombre": "Ligue 2: Annecy - Troyes",
-    "hora": "13:45",
+    "nombre": "EuroLeague: Hapoel Tel - Aviv - Paris",
+    "hora": "09:00",
     "liga": "soccer",
     "logo": "logos/soccer.png",
-    "fecha": "2026-03-16",
+    "fecha": "2026-03-17",
     "embeds": [
       {
-        "nombre": "beIN 1",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F1"
+        "nombre": "ES M+ Deportes4",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F65"
       }
     ]
   },
   {
-    "nombre": "Serie A: Cremonese - Fiorentina",
-    "hora": "13:45",
+    "nombre": "Youth League: Villarreal U19 - PSG U19",
+    "hora": "09:00",
     "liga": "soccer",
-    "logo": "logos/liga_italia.png",
-    "fecha": "2026-03-16",
-    "embeds": [
-      {
-        "nombre": "IT DAZN",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F137"
-      },
-      {
-        "nombre": "DE dazn 2",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F124"
-      },
-      {
-        "nombre": "PT SPORT 2",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F145"
-      },
-      {
-        "nombre": "GR SPORT 2",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F149"
-      },
-      {
-        "nombre": "FOX Deportes",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F70"
-      }
-    ]
-  },
-  {
-    "nombre": "Championship: Portsmouth - Derby",
-    "hora": "14:00",
-    "liga": "soccer",
-    "logo": "logos/liga_premier.png",
-    "fecha": "2026-03-16",
-    "embeds": [
-      {
-        "nombre": "UK SKY FOOT",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F128"
-      },
-      {
-        "nombre": "ESPN5",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F91"
-      },
-      {
-        "nombre": "ESPN2MX",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F98"
-      }
-    ]
-  },
-  {
-    "nombre": "Laliga: Rayo Vallecano - Levante",
-    "hora": "14:00",
-    "liga": "soccer",
-    "logo": "logos/liga_española.png",
-    "fecha": "2026-03-16",
-    "embeds": [
-      {
-        "nombre": "beIN max 4",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F4"
-      },
-      {
-        "nombre": "ES m.laliga",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F49"
-      },
-      {
-        "nombre": "ESPN Deportes",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F71"
-      },
-      {
-        "nombre": "ESPN3",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F89"
-      },
-      {
-        "nombre": "DE dazn 1",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F123"
-      }
-    ]
-  },
-  {
-    "nombre": "Liga AUF Uruguaya: Danubio - Juventud",
-    "hora": "14:00",
-    "liga": "soccer",
-    "logo": "logos/liga_uruguay.png",
-    "fecha": "2026-03-16",
-    "embeds": [
-      {
-        "nombre": "VTV plus",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F109"
-      }
-    ]
-  },
-  {
-    "nombre": "Premier League: Brentford - Wolves",
-    "hora": "14:00",
-    "liga": "soccer",
-    "logo": "logos/liga_premier.png",
-    "fecha": "2026-03-16",
+    "logo": "logos/soccer.png",
+    "fecha": "2026-03-17",
     "embeds": [
       {
         "nombre": "canal+ foot",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F12"
       },
       {
-        "nombre": "UK SKY MAIN",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F127"
+        "nombre": "DE bundliga2",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F112"
       },
       {
-        "nombre": "DE skyde PL",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F120"
+        "nombre": "EXTRA SPORT7",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F161"
       },
       {
-        "nombre": "ES DAZN 1",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F56"
+        "nombre": "EXTRA SPORT8",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F162"
+      }
+    ]
+  },
+  {
+    "nombre": "Super Lig: Fenerbahce - Gaziantep",
+    "hora": "11:00",
+    "liga": "soccer",
+    "logo": "logos/soccer.png",
+    "fecha": "2026-03-17",
+    "embeds": [
+      {
+        "nombre": "beIN 2",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F2"
+      },
+      {
+        "nombre": "TR BeIN sport 1",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F151"
+      },
+      {
+        "nombre": "beIN En español",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F69"
+      },
+      {
+        "nombre": "ESPN4MX",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F100"
+      }
+    ]
+  },
+  {
+    "nombre": "Ligue Des Champions: Sporting CP - Bodo/Glimt",
+    "hora": "11:45",
+    "liga": "soccer",
+    "logo": "logos/soccer.png",
+    "fecha": "2026-03-17",
+    "embeds": [
+      {
+        "nombre": "canal+ sport",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F13"
+      },
+      {
+        "nombre": "UK EPL 3PM",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F131"
+      },
+      {
+        "nombre": "EXTRA SPORT8",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F162"
+      },
+      {
+        "nombre": "DE bundliga5",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F115"
+      },
+      {
+        "nombre": "DE dazn 1",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F123"
+      },
+      {
+        "nombre": "IT SKYCALCIO",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F138"
+      },
+      {
+        "nombre": "PT SPORT 1",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F144"
+      },
+      {
+        "nombre": "TUDN USA",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F68"
+      },
+      {
+        "nombre": "FOXsport2 arg",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F79"
       },
       {
         "nombre": "ESPN1",
@@ -173,128 +112,250 @@
     ]
   },
   {
-    "nombre": "Campeonato Itaú Chile: Union La Calera - O'Higgins",
-    "hora": "15:00",
+    "nombre": "Copa De La Reina: Costa Adeje Tenerife W - Atl. Madrid W",
+    "hora": "13:00",
     "liga": "soccer",
     "logo": "logos/soccer.png",
-    "fecha": "2026-03-16",
+    "fecha": "2026-03-17",
     "embeds": [
       {
-        "nombre": "TNTCHILE Premium",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F83"
+        "nombre": "ESPN Deportes",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F71"
+      },
+      {
+        "nombre": "ESPN2MX",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F98"
       }
     ]
   },
   {
-    "nombre": "Torneo LPF: San Lorenzo - Defensa y Justicia",
+    "nombre": "EuroLeague: Partizan Mozzart Bet - Dubai",
+    "hora": "13:00",
+    "liga": "soccer",
+    "logo": "logos/soccer.png",
+    "fecha": "2026-03-17",
+    "embeds": [
+      {
+        "nombre": "ES M+ Deportes2",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F63"
+      }
+    ]
+  },
+  {
+    "nombre": "EuroLeague: Olympiacos - Fenerbahce",
+    "hora": "13:15",
+    "liga": "soccer",
+    "logo": "logos/soccer.png",
+    "fecha": "2026-03-17",
+    "embeds": [
+      {
+        "nombre": "ES M+ Deportes",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F62"
+      }
+    ]
+  },
+  {
+    "nombre": "Championship: Watford - Wrexham",
+    "hora": "13:45",
+    "liga": "soccer",
+    "logo": "logos/liga_premier.png",
+    "fecha": "2026-03-17",
+    "embeds": [
+      {
+        "nombre": "EXTRA SPORT46",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F199"
+      }
+    ]
+  },
+  {
+    "nombre": "Ligue Des Champions: Champions League konferenz - ",
+    "hora": "14:00",
+    "liga": "soccer",
+    "logo": "logos/soccer.png",
+    "fecha": "2026-03-17",
+    "embeds": [
+      {
+        "nombre": "DE dazn 2",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F124"
+      }
+    ]
+  },
+  {
+    "nombre": "Ligue Des Champions: Arsenal - Bayer Leverkusen",
+    "hora": "14:00",
+    "liga": "soccer",
+    "logo": "logos/soccer.png",
+    "fecha": "2026-03-17",
+    "embeds": [
+      {
+        "nombre": "canal+ sport360",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F14"
+      },
+      {
+        "nombre": "UK TNT SPORT",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F126"
+      },
+      {
+        "nombre": "EXTRA SPORT11",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F165"
+      },
+      {
+        "nombre": "DE bundliga2",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F112"
+      },
+      {
+        "nombre": "UK TNT SPORT",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F126"
+      },
+      {
+        "nombre": "IT FEED",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F139"
+      },
+      {
+        "nombre": "NL ESPN 2",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F142"
+      },
+      {
+        "nombre": "ESPN5",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F91"
+      }
+    ]
+  },
+  {
+    "nombre": "Ligue Des Champions: Chelsea - PSG",
+    "hora": "14:00",
+    "liga": "soccer",
+    "logo": "logos/soccer.png",
+    "fecha": "2026-03-17",
+    "embeds": [
+      {
+        "nombre": "canal+ foot",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F12"
+      },
+      {
+        "nombre": "UK EPL 3PM",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F130"
+      },
+      {
+        "nombre": "EXTRA SPORT9",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F163"
+      },
+      {
+        "nombre": "DE bundliga4",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F114"
+      },
+      {
+        "nombre": "IT FEED",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F140"
+      },
+      {
+        "nombre": "NL ESPN 2",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F142"
+      },
+      {
+        "nombre": "GR SPORT 2",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F149"
+      },
+      {
+        "nombre": "TUDN USA",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F68"
+      },
+      {
+        "nombre": "FOXsport1 arg",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F78"
+      },
+      {
+        "nombre": "ESPN2",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F88"
+      }
+    ]
+  },
+  {
+    "nombre": "Ligue Des Champions: Manchester City - Real Madrid",
+    "hora": "14:00",
+    "liga": "soccer",
+    "logo": "logos/soccer.png",
+    "fecha": "2026-03-17",
+    "embeds": [
+      {
+        "nombre": "canal+ sport",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F13"
+      },
+      {
+        "nombre": "UK EPL 3PM",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F132"
+      },
+      {
+        "nombre": "EXTRA SPORT7",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F161"
+      },
+      {
+        "nombre": "IT DAZN",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F137"
+      },
+      {
+        "nombre": "DE bundliga3",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F113"
+      },
+      {
+        "nombre": "DE dazn 1",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F123"
+      },
+      {
+        "nombre": "ESPN1",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F87"
+      },
+      {
+        "nombre": "EXTRA SPORT4",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F158"
+      }
+    ]
+  },
+  {
+    "nombre": "Ligue Des Champions: Multichampions - ",
+    "hora": "14:00",
+    "liga": "soccer",
+    "logo": "logos/soccer.png",
+    "fecha": "2026-03-17",
+    "embeds": [
+      {
+        "nombre": "EXTRA SPORT10",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F164"
+      }
+    ]
+  },
+  {
+    "nombre": "Liga Betplay Dimayor: Llaneros - Cucuta",
+    "hora": "15:10",
+    "liga": "soccer",
+    "logo": "logos/liga_colombia.png",
+    "fecha": "2026-03-17",
+    "embeds": [
+      {
+        "nombre": "WINsport+",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F81"
+      }
+    ]
+  },
+  {
+    "nombre": "Ecuador Ligapro: U. Catolica - Dep. Cuenca",
     "hora": "15:30",
     "liga": "soccer",
-    "logo": "logos/liga_argentina.png",
-    "fecha": "2026-03-16",
+    "logo": "logos/soccer.png",
+    "fecha": "2026-03-17",
     "embeds": [
       {
-        "nombre": "TNT sport arg",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F75"
+        "nombre": "Zapping sports",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F86"
       }
     ]
   },
   {
-    "nombre": "Liga AUF Uruguaya: Liverpool M. - Montevideo City",
-    "hora": "17:00",
-    "liga": "soccer",
-    "logo": "logos/liga_uruguay.png",
-    "fecha": "2026-03-16",
-    "embeds": [
-      {
-        "nombre": "VTV plus",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F109"
-      }
-    ]
-  },
-  {
-    "nombre": "NBA: Atlanta Hawks - Orlando Magic",
-    "hora": "17:00",
-    "liga": "nba",
-    "logo": "logos/nba.png",
-    "fecha": "2026-03-16",
-    "embeds": [
-      {
-        "nombre": "EXTRA SPORT27",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F181"
-      }
-    ]
-  },
-  {
-    "nombre": "NBA: Washington Wizards - Golden State Warriors",
-    "hora": "17:00",
-    "liga": "nba",
-    "logo": "logos/nba.png",
-    "fecha": "2026-03-16",
-    "embeds": [
-      {
-        "nombre": "EXTRA SPORT28",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F182"
-      }
-    ]
-  },
-  {
-    "nombre": "NHL: Detroit Red Wings - Calgary Flames",
-    "hora": "17:00",
-    "liga": "nhl",
-    "logo": "logos/nhl.png",
-    "fecha": "2026-03-16",
-    "embeds": [
-      {
-        "nombre": "EXTRA SPORT30",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F183"
-      }
-    ]
-  },
-  {
-    "nombre": "NHL: New Jersey Devils - Boston Bruins",
-    "hora": "17:00",
-    "liga": "nhl",
-    "logo": "logos/nhl.png",
-    "fecha": "2026-03-16",
-    "embeds": [
-      {
-        "nombre": "EXTRA SPORT31",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F184"
-      }
-    ]
-  },
-  {
-    "nombre": "NHL: New York Rangers - Los Angeles Kings",
-    "hora": "17:00",
-    "liga": "nhl",
-    "logo": "logos/nhl.png",
-    "fecha": "2026-03-16",
-    "embeds": [
-      {
-        "nombre": "EXTRA SPORT32",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F185"
-      }
-    ]
-  },
-  {
-    "nombre": "Serie A Bresil: Chapecoense - SC - Gremio",
-    "hora": "17:00",
-    "liga": "soccer",
-    "logo": "logos/liga_italia.png",
-    "fecha": "2026-03-16",
-    "embeds": [
-      {
-        "nombre": "DE bundliga7",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F117"
-      }
-    ]
-  },
-  {
-    "nombre": "Torneo LPF: Racing Club - Estudiantes Rio Cuarto",
-    "hora": "17:00",
+    "nombre": "Torneo LPF: Lanus - Newells Old Boys",
+    "hora": "16:00",
     "liga": "soccer",
     "logo": "logos/liga_argentina.png",
-    "fecha": "2026-03-16",
+    "fecha": "2026-03-17",
     "embeds": [
       {
         "nombre": "ESPN Premium",
@@ -303,24 +364,110 @@
     ]
   },
   {
-    "nombre": "Campeonato Itaú Chile: Colo Colo - Huachipato",
-    "hora": "17:30",
-    "liga": "soccer",
-    "logo": "logos/soccer.png",
-    "fecha": "2026-03-16",
+    "nombre": "NBA: Charlotte Hornets - Miami Heat",
+    "hora": "17:00",
+    "liga": "nba",
+    "logo": "logos/nba.png",
+    "fecha": "2026-03-17",
     "embeds": [
       {
-        "nombre": "TNTCHILE Premium",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F83"
+        "nombre": "EXTRA SPORT26",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F180"
       }
     ]
   },
   {
-    "nombre": "NBA: Boston Celtics - Phoenix Suns",
+    "nombre": "NBA: Orlando Magic - Oklahoma City Thunder",
+    "hora": "17:00",
+    "liga": "nba",
+    "logo": "logos/nba.png",
+    "fecha": "2026-03-17",
+    "embeds": [
+      {
+        "nombre": "beIN 1",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F1"
+      },
+      {
+        "nombre": "EXTRA SPORT1",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F155"
+      },
+      {
+        "nombre": "EXTRA SPORT27",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F181"
+      }
+    ]
+  },
+  {
+    "nombre": "NBA: Washington Wizards - Detroit Pistons",
+    "hora": "17:00",
+    "liga": "nba",
+    "logo": "logos/nba.png",
+    "fecha": "2026-03-17",
+    "embeds": [
+      {
+        "nombre": "EXTRA SPORT28",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F182"
+      }
+    ]
+  },
+  {
+    "nombre": "NHL: Columbus Blue Jackets - Carolina Hurricanes",
+    "hora": "17:00",
+    "liga": "nhl",
+    "logo": "logos/nhl.png",
+    "fecha": "2026-03-17",
+    "embeds": [
+      {
+        "nombre": "EXTRA SPORT30",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F183"
+      }
+    ]
+  },
+  {
+    "nombre": "NHL: Montreal Canadiens - Boston Bruins",
+    "hora": "17:00",
+    "liga": "nhl",
+    "logo": "logos/nhl.png",
+    "fecha": "2026-03-17",
+    "embeds": [
+      {
+        "nombre": "EXTRA SPORT31",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F184"
+      }
+    ]
+  },
+  {
+    "nombre": "NHL: Toronto Maple Leafs - New York Islanders",
+    "hora": "17:00",
+    "liga": "nhl",
+    "logo": "logos/nhl.png",
+    "fecha": "2026-03-17",
+    "embeds": [
+      {
+        "nombre": "EXTRA SPORT32",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F185"
+      }
+    ]
+  },
+  {
+    "nombre": "Liga Betplay Dimayor: Bucaramanga - Once Caldas",
+    "hora": "17:20",
+    "liga": "soccer",
+    "logo": "logos/liga_colombia.png",
+    "fecha": "2026-03-17",
+    "embeds": [
+      {
+        "nombre": "WINsport+",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F81"
+      }
+    ]
+  },
+  {
+    "nombre": "NBA: New York Knicks - Indiana Pacers",
     "hora": "17:30",
     "liga": "nba",
     "logo": "logos/nba.png",
-    "fecha": "2026-03-16",
+    "fecha": "2026-03-17",
     "embeds": [
       {
         "nombre": "EXTRA SPORT33",
@@ -329,11 +476,11 @@
     ]
   },
   {
-    "nombre": "NBA: Brooklyn Nets - Portland Trail Blazers",
+    "nombre": "NHL: Chicago Blackhawks - Minnesota Wild",
     "hora": "17:30",
-    "liga": "nba",
-    "logo": "logos/nba.png",
-    "fecha": "2026-03-16",
+    "liga": "nhl",
+    "logo": "logos/nhl.png",
+    "fecha": "2026-03-17",
     "embeds": [
       {
         "nombre": "EXTRA SPORT34",
@@ -342,11 +489,24 @@
     ]
   },
   {
-    "nombre": "NBA: Chicago Bulls - Memphis Grizzlies",
+    "nombre": "Ecuador Ligapro: Leones del Norte - LDU Quito",
+    "hora": "18:00",
+    "liga": "soccer",
+    "logo": "logos/soccer.png",
+    "fecha": "2026-03-17",
+    "embeds": [
+      {
+        "nombre": "Zapping sports",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F86"
+      }
+    ]
+  },
+  {
+    "nombre": "NBA: Milwaukee Bucks - Cleveland Cavaliers",
     "hora": "18:00",
     "liga": "nba",
     "logo": "logos/nba.png",
-    "fecha": "2026-03-16",
+    "fecha": "2026-03-17",
     "embeds": [
       {
         "nombre": "EXTRA SPORT35",
@@ -355,12 +515,16 @@
     ]
   },
   {
-    "nombre": "NBA: New Orleans Pelicans - Dallas Mavericks",
+    "nombre": "NBA: Minnesota Timberwolves - Phoenix Suns",
     "hora": "18:00",
     "liga": "nba",
     "logo": "logos/nba.png",
-    "fecha": "2026-03-16",
+    "fecha": "2026-03-17",
     "embeds": [
+      {
+        "nombre": "EXTRA SPORT2",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F156"
+      },
       {
         "nombre": "EXTRA SPORT36",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F189"
@@ -368,11 +532,11 @@
     ]
   },
   {
-    "nombre": "NHL: Dallas Stars - Utah Mammoth",
+    "nombre": "NHL: Winnipeg Jets - Nashville Predators",
     "hora": "18:00",
     "liga": "nhl",
     "logo": "logos/nhl.png",
-    "fecha": "2026-03-16",
+    "fecha": "2026-03-17",
     "embeds": [
       {
         "nombre": "EXTRA SPORT37",
@@ -381,24 +545,11 @@
     ]
   },
   {
-    "nombre": "Liga Mx Women: Atlas W - Monterrey W",
-    "hora": "19:00",
-    "liga": "soccer",
-    "logo": "logos/liga_mx.png",
-    "fecha": "2026-03-16",
-    "embeds": [
-      {
-        "nombre": "EXTRA SPORT6",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F160"
-      }
-    ]
-  },
-  {
-    "nombre": "Torneo LPF: Instituto - Independiente",
-    "hora": "19:15",
+    "nombre": "Torneo LPF: Central Cordoba - Dep. Riestra",
+    "hora": "18:15",
     "liga": "soccer",
     "logo": "logos/liga_argentina.png",
-    "fecha": "2026-03-16",
+    "fecha": "2026-03-17",
     "embeds": [
       {
         "nombre": "TNT sport arg",
@@ -407,11 +558,50 @@
     ]
   },
   {
-    "nombre": "NBA: Houston Rockets - Los Angeles Lakers",
-    "hora": "19:30",
-    "liga": "nba",
-    "logo": "logos/nba.png",
-    "fecha": "2026-03-16",
+    "nombre": "Torneo LPF: Gimnasia Mendoza - Estudiantes L.P.",
+    "hora": "18:15",
+    "liga": "soccer",
+    "logo": "logos/liga_argentina.png",
+    "fecha": "2026-03-17",
+    "embeds": [
+      {
+        "nombre": "ESPN Premium",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F76"
+      }
+    ]
+  },
+  {
+    "nombre": "Concacaf Champions Cup: Alajuelense - Los Angeles FC",
+    "hora": "19:00",
+    "liga": "soccer",
+    "logo": "logos/liga_concachampions.png",
+    "fecha": "2026-03-17",
+    "embeds": [
+      {
+        "nombre": "TUDN USA",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F68"
+      }
+    ]
+  },
+  {
+    "nombre": "Liga Mx Women: Santos Laguna W - Cruz Azul W",
+    "hora": "19:00",
+    "liga": "soccer",
+    "logo": "logos/liga_mx.png",
+    "fecha": "2026-03-17",
+    "embeds": [
+      {
+        "nombre": "EXTRA SPORT5",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F159"
+      }
+    ]
+  },
+  {
+    "nombre": "NHL: Edmonton Oilers - San Jose Sharks",
+    "hora": "19:00",
+    "liga": "nhl",
+    "logo": "logos/nhl.png",
+    "fecha": "2026-03-17",
     "embeds": [
       {
         "nombre": "EXTRA SPORT38",
@@ -420,12 +610,29 @@
     ]
   },
   {
-    "nombre": "NHL: Colorado Avalanche - Pittsburgh Penguins",
+    "nombre": "Liga Betplay Dimayor: Millonarios - Atl. Nacional",
     "hora": "19:30",
-    "liga": "nhl",
-    "logo": "logos/nhl.png",
-    "fecha": "2026-03-16",
+    "liga": "soccer",
+    "logo": "logos/liga_colombia.png",
+    "fecha": "2026-03-17",
     "embeds": [
+      {
+        "nombre": "WINsport+",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F81"
+      }
+    ]
+  },
+  {
+    "nombre": "NBA: Denver Nuggets - Philadelphia 76ers",
+    "hora": "20:00",
+    "liga": "nba",
+    "logo": "logos/nba.png",
+    "fecha": "2026-03-17",
+    "embeds": [
+      {
+        "nombre": "beIN 1",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F1"
+      },
       {
         "nombre": "EXTRA SPORT39",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F192"
@@ -433,11 +640,11 @@
     ]
   },
   {
-    "nombre": "NBA: Los Angeles Clippers - San Antonio Spurs",
+    "nombre": "NBA: Sacramento Kings - San Antonio Spurs",
     "hora": "20:00",
     "liga": "nba",
     "logo": "logos/nba.png",
-    "fecha": "2026-03-16",
+    "fecha": "2026-03-17",
     "embeds": [
       {
         "nombre": "EXTRA SPORT40",
@@ -446,15 +653,67 @@
     ]
   },
   {
-    "nombre": "Liga Mx Women: Club Leon W - Mazatlan FC W",
-    "hora": "21:00",
-    "liga": "soccer",
-    "logo": "logos/liga_mx.png",
-    "fecha": "2026-03-16",
+    "nombre": "NHL: Seattle Kraken - Tampa Bay Lightning",
+    "hora": "20:00",
+    "liga": "nhl",
+    "logo": "logos/nhl.png",
+    "fecha": "2026-03-17",
     "embeds": [
       {
-        "nombre": "EXTRA SPORT6",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F160"
+        "nombre": "EXTRA SPORT41",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F194"
+      }
+    ]
+  },
+  {
+    "nombre": "NHL: Vancouver Canucks - Florida Panthers",
+    "hora": "20:00",
+    "liga": "nhl",
+    "logo": "logos/nhl.png",
+    "fecha": "2026-03-17",
+    "embeds": [
+      {
+        "nombre": "EXTRA SPORT42",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F195"
+      }
+    ]
+  },
+  {
+    "nombre": "NHL: Vegas Golden Knights - Buffalo Sabres",
+    "hora": "20:00",
+    "liga": "nhl",
+    "logo": "logos/nhl.png",
+    "fecha": "2026-03-17",
+    "embeds": [
+      {
+        "nombre": "EXTRA SPORT43",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F196"
+      }
+    ]
+  },
+  {
+    "nombre": "Concacaf Champions Cup: Cruz Azul - Monterrey",
+    "hora": "21:00",
+    "liga": "soccer",
+    "logo": "logos/liga_concachampions.png",
+    "fecha": "2026-03-17",
+    "embeds": [
+      {
+        "nombre": "TUDN USA",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F68"
+      }
+    ]
+  },
+  {
+    "nombre": "Liga Mx Women: Club Tijuana W - UNAM Pumas W",
+    "hora": "21:06",
+    "liga": "soccer",
+    "logo": "logos/liga_mx.png",
+    "fecha": "2026-03-17",
+    "embeds": [
+      {
+        "nombre": "EXTRA SPORT5",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F159"
       }
     ]
   }
