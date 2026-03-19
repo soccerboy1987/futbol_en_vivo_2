@@ -322,7 +322,7 @@ LIGAS_MAP = {
     "conference league": ("soccer", "logos/liga_conference.png"),
 
     # EUROPA League
-    "ligue europa": ("soccer", "logos/liga_europa.png"),
+    "ligue europa": ("soccer", "logos/liga_europaleague.png"),
 
     # Liga MLS
     "mls": ("soccer", "logos/liga_mls.png"),
