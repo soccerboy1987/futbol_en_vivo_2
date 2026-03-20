@@ -1,22 +1,9 @@
 [
   {
-    "nombre": "MotoGP: GP du Brésil MotyoGP. Essais libres 1 Vs (CH14fr)",
-    "hora": "07:55",
-    "liga": "soccer",
-    "logo": "logos/motogp.png",
-    "fecha": "2026-03-20",
-    "embeds": [
-      {
-        "nombre": "ES DAZN F1",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F60"
-      }
-    ]
-  },
-  {
     "nombre": "Moto3: GP du Brésil Moto3. Essais Vs (CH14fr)",
     "hora": "10:10",
     "liga": "soccer",
-    "logo": "logos/soccer.png",
+    "logo": "logos/motogp.png",
     "fecha": "2026-03-20",
     "embeds": [
       {
@@ -29,7 +16,7 @@
     "nombre": "Moto2: GP du Brésil Moto2. Essais Vs (CH14fr)",
     "hora": "11:10",
     "liga": "soccer",
-    "logo": "logos/soccer.png",
+    "logo": "logos/motogp.png",
     "fecha": "2026-03-20",
     "embeds": [
       {
@@ -148,7 +135,7 @@
     "nombre": "MotoGP: GP du Brésil MotoGP. Essais Vs (CH14fr)",
     "hora": "12:10",
     "liga": "soccer",
-    "logo": "logos/soccer.png",
+    "logo": "logos/motogp.png",
     "fecha": "2026-03-20",
     "embeds": [
       {
