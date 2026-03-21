@@ -1,83 +1,5 @@
 [
   {
-    "nombre": "Caf Ligue Des Champions: Al Ahly - Esperance Tunis",
-    "hora": "13:00",
-    "liga": "soccer",
-    "logo": "logos/soccer.png",
-    "fecha": "2026-03-21",
-    "embeds": [
-      {
-        "nombre": "beIN max 10",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F10"
-      }
-    ]
-  },
-  {
-    "nombre": "Ecuador Ligapro: Delfin - Libertad",
-    "hora": "13:00",
-    "liga": "soccer",
-    "logo": "logos/soccer.png",
-    "fecha": "2026-03-21",
-    "embeds": [
-      {
-        "nombre": "Zapping sports",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F86"
-      }
-    ]
-  },
-  {
-    "nombre": "Liga AUF Uruguaya: Wanderers - Danubio",
-    "hora": "13:00",
-    "liga": "soccer",
-    "logo": "logos/liga_uruguay.png",
-    "fecha": "2026-03-21",
-    "embeds": [
-      {
-        "nombre": "VTV plus",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F109"
-      }
-    ]
-  },
-  {
-    "nombre": "Liga Endesa: Unicaja - Tenerife",
-    "hora": "13:00",
-    "liga": "nba",
-    "logo": "logos/nba.png",
-    "fecha": "2026-03-21",
-    "embeds": [
-      {
-        "nombre": "EXTRA SPORT3",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F157"
-      }
-    ]
-  },
-  {
-    "nombre": "Ligue 2: St Etienne - Annecy",
-    "hora": "13:00",
-    "liga": "soccer",
-    "logo": "logos/soccer.png",
-    "fecha": "2026-03-21",
-    "embeds": [
-      {
-        "nombre": "beIN 1",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F1"
-      }
-    ]
-  },
-  {
-    "nombre": "Serie A Bresil: Bragantino - Botafogo RJ",
-    "hora": "13:00",
-    "liga": "soccer",
-    "logo": "logos/liga_italia.png",
-    "fecha": "2026-03-21",
-    "embeds": [
-      {
-        "nombre": "DE bundliga7",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F117"
-      }
-    ]
-  },
-  {
     "nombre": "Bundesliga 2: Darmstadt - Schalke",
     "hora": "13:30",
     "liga": "soccer",
@@ -427,6 +349,10 @@
       {
         "nombre": "Zapping sports",
         "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F86"
+      },
+      {
+        "nombre": "Zapping sports OPC2",
+        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://tvtvhd.com/tv/canal.php?stream=even3"
       }
     ]
   },
