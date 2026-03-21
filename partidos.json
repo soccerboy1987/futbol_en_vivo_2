@@ -1,52 +1,5 @@
 [
   {
-    "nombre": "Liga Mx Women: Monterrey W Vs Guadalajara Chivas W",
-    "hora": "20:00",
-    "liga": "soccer",
-    "logo": "logos/liga_mx.png",
-    "fecha": "2026-03-20",
-    "embeds": [
-      {
-        "nombre": "EXTRA SPORT7",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F161"
-      }
-    ]
-  },
-  {
-    "nombre": "NHL: Utah Mammoth Vs Anaheim Ducks",
-    "hora": "20:00",
-    "liga": "nhl",
-    "logo": "logos/nhl.png",
-    "fecha": "2026-03-20",
-    "embeds": [
-      {
-        "nombre": "EXTRA SPORT37",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F190"
-      },
-      {
-        "nombre": "EXTRA SPORT28",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F190"
-      }
-    ]
-  },
-  {
-    "nombre": "Liga De Expansion Mx: Atletico La Paz Vs Alebrijes Oaxaca",
-    "hora": "21:00",
-    "liga": "soccer",
-    "logo": "logos/liga_mx.png",
-    "fecha": "2026-03-20",
-    "embeds": [
-      {
-        "nombre": "ESPN2MX",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https%3A%2F%2Fbolaloca.my%2Fplayer%2F3%2F98"
-      },
-      {
-        "nombre": "ESPN2MX opc2",
-        "url": "https://5bcda32c.player-dwk.pages.dev/?get=https://tvtvhd.com/canales.php?stream=espn2mx"
-      }
-    ]
-  },
-  {
     "nombre": "Liga Mx: Mazatlan FC Vs Cruz Azul",
     "hora": "21:06",
     "liga": "soccer",
