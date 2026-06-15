@@ -2,19 +2,15 @@ document.addEventListener("DOMContentLoaded", () => {
 
     const manualMatches = [
         {
-            title: "Leon vs America",
+            title: "Toluca vs Leon",
             competition: "Liga MX",
-            thumbnail: "https://oem.com.mx/esto/img/29587529/1776693378/BASE_LANDSCAPE/1200/image.webp",
-            stream: "https://aegis-cloudfront-1.tubi.video/62883227-8fc8-4992-97ff-614d283b4789/playlist576p.m3u8"
+            thumbnail: "https://www.365scores.com/es/news/wp-content/uploads/2026/04/ChatGPT-Image-25-abr-2026-09_10_58-a.m.png",
+            stream: "https://trasmisiones-tvhd.pages.dev/player?get=https://tvtvhd.com/canales.php?stream=dsports"
         }
     ];
     
     const streams = {
-        "Switzerland vs Germany": "https://trasmisiones-tvhd.pages.dev/player?get=https%3A%2F%2Fcartelive.club%2Fplayer%2F3%2F69",
-        "Argentina vs Mauritania": "https://trasmisiones-tvhd.pages.dev/player?get=https%3A%2F%2Fcartelive.club%2Fplayer%2F3%2F70",
-        "England vs Uruguay": "https://trasmisiones-tvhd.pages.dev/player?get=https%3A%2F%2Fcartelive.club%2Fplayer%2F3%2F71",
-        "USA vs Belgium": "https://trasmisiones-tvhd.pages.dev/player?get=https%3A%2F%2Fcartelive.club%2Fplayer%2F3%2F108",
-        "Leon vs Atlas": "https://trasmisiones-tvhd.pages.dev/player?get=https%3A%2F%2Fcartelive.club%2Fplayer%2F3%2F108"
+        "Angers vs PSG": "https://trasmisiones-tvhd.pages.dev/player?get=https://tvtvhd.com/canales.php?stream=dsports",
     };
 
     const API_KEY = null; // 👉 aquí pondrás tu key después
@@ -27,8 +23,8 @@ async function getLiveData(home, away) {
         return {
             score: "0 - 0",
             status: "No disponible",
-            stats: "Datos en vivo no conectados",
-            lineup: "Alineaciones no disponibles"
+            stats: "Datos no conectados",
+            lineup: "No Disponible"
         };
     }
 
