@@ -2,9 +2,9 @@ document.addEventListener("DOMContentLoaded", () => {
 
     const manualMatches = [
         {
-            title: "Toluca vs Leon",
-            competition: "Liga MX",
-            thumbnail: "https://www.365scores.com/es/news/wp-content/uploads/2026/04/ChatGPT-Image-25-abr-2026-09_10_58-a.m.png",
+            title: "Mexico Vs Korea del Sur",
+            competition: "Mundial 2026 | JUEVES 19:00HRS",
+            thumbnail: "https://thfvnext.bing.com/th?id=OIF.Ac0SAj5ERde3irKj%2bGzc7w&cb=thfvnextfalcon2&rs=1&pid=ImgDetMain&o=7&rm=3",
             stream: ""
         }
     ];
