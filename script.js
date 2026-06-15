@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", () => {
     ];
     
     const streams = {
-        "Angers vs PSG": "https://trasmisiones-tvhd.pages.dev/player?get=https://tvtvhd.com/canales.php?stream=dsports",
+        "Angers vs PSG": "https://trasmisiones-tvhd.pages.dev/player?get=https://tvtvhd.com/canales.php?stream=tudn",
     };
 
     const API_KEY = null; // 👉 aquí pondrás tu key después
