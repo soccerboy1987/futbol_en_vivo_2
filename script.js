@@ -2,8 +2,8 @@ document.addEventListener("DOMContentLoaded", () => {
 
     const manualMatches = [
         {
-            title: "Toluca vs Leon",
-            competition: "Liga MX",
+            title: "Mexico Vs Korea del Sur",
+            competition: "Mundial 2026 | JUEVES 19:00HRS",
             thumbnail: "https://www.365scores.com/es/news/wp-content/uploads/2026/04/ChatGPT-Image-25-abr-2026-09_10_58-a.m.png",
             stream: "https://trasmisiones-tvhd.pages.dev/player?get=https://tvtvhd.com/canales.php?stream=dsports"
         }
